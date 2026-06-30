@@ -4,11 +4,12 @@
 
 This project was developed as part of a university group assignment.
 
-### My Contributions
+## My Contributions
 - Developed the inventory management functionality.
-- Implemented C++ classes using object-oriented programming principles.
-- Contributed to debugging, testing, and integration.
-- Participated in project design and feature implementation.
+- Implemented C++ classes using object-oriented programming principles, including inheritance and polymorphism.
+- Designed and implemented concurrency and multithreading features to improve system performance and support concurrent operations.
+- Contributed to debugging, testing, and integration of system components.
+- Participated in project design, feature implementation, and collaborative development.
 
 It is a C++ inventory management system designed to manage chocolate products, customer orders, inventory, discounts, and tax calculations. The project demonstrates object-oriented programming concepts such as inheritance, polymorphism, encapsulation, and modular design.
 

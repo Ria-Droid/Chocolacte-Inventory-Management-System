@@ -1,0 +1,56 @@
+# Global Chocolate Inventory Management System
+ 
+## Project Information
+
+This project was developed as part of a university group assignment.
+
+### My Contributions
+- Developed the inventory management functionality.
+- Implemented C++ classes using object-oriented programming principles.
+- Contributed to debugging, testing, and integration.
+- Participated in project design and feature implementation.
+
+It is a C++ inventory management system designed to manage chocolate products, customer orders, inventory, discounts, and tax calculations. The project demonstrates object-oriented programming concepts such as inheritance, polymorphism, encapsulation, and modular design.
+
+## Features
+
+- Product management
+- Customer order processing
+- Inventory tracking
+- Discounted products
+- Taxable products
+- Object-oriented design
+
+## Technologies
+
+- C++
+- Code::Blocks
+- Object-Oriented Programming
+
+## How to Run
+
+1. Open `CodeCoven.cbp` in Code::Blocks.
+2. Build the project.
+3. Run the executable.
+
+## Project Structure
+
+```
+main.cpp
+Product.cpp
+Product.h
+Order.cpp
+Order.h
+InventoryManager.cpp
+InventoryManager.h
+OrderProcessor.cpp
+OrderProcessor.h
+DiscountedChocolate.cpp
+DiscountedChocolate.h
+TaxableChocolate.cpp
+TaxableChocolate.h
+```
+
+## Author
+
+Ria Khan
